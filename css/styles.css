@@ -1,0 +1,46 @@
+.background-gray{
+    background-color: #C4C4C4;
+    font-family: 'Times New Roman';
+    color: #005677;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.background-gray-head{
+    background-color: #C4C4C4;
+    font-family: 'Times New Roman';
+    color: #005677;
+    font-weight: bold;
+    font-size: 35px;
+}
+
+.italic-bold{
+    font-weight: bold;
+    font-style: italic;
+    font-size: 15px;
+    line-height: 84.7%;
+}
+
+.footer-blue{
+    background-color: #005677;
+    font-family: 'Times New Roman';
+    color: white;
+    text-align: center;
+    font-size: 20px;
+}
+
+.numbers-span{
+    font-weight: bold;
+    font-size: 15px;
+    font-family: 'Times New Roman';
+}
+
+.ul-nobullet{
+    list-style-type: none;
+    text-align: left;
+    font-family: 'Times New Roman';
+}
+
+.align-center{
+    text-indent: 4.7em;
+}
